@@ -1,0 +1,105 @@
+.class-container {
+
+}
+
+.my-profile-container {
+    width: 15rem;
+    border-radius: 15px;
+    background-color: hsl(235, 46%, 20%);
+    color: white;
+    padding: 0 0 5px;
+}
+
+.profile-container-highlight {
+    width: 100%;
+    border-radius: 15px;
+    background-color: hsl(195, 74%, 62%);
+    padding: 10px;
+}
+
+.profile-picture {
+    width: 5rem;
+    margin: 5px 5px 10px 5px;
+}
+
+/* .app-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.stat-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+} */
+
+.container-link {
+    margin: 15px;
+}
+
+.base-container {
+    width: 15rem !important;
+    border-radius: 15px;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    /* margin: 0 2rem 0 2rem; */
+}
+
+.base-container-spacer {
+    height: 3rem;
+}
+
+.base-container-image {
+    position: absolute;
+    right: 20px;
+    top: -10px;
+}
+
+.info-container {
+    width: 100%;
+    border-radius: 15px;
+    background-color: hsl(235, 46%, 20%);
+    padding: 15px;
+    position: relative;
+}
+
+.activity-text {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.time-text {
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+
+.prev-text {
+    color: silver !important;
+}
+
+#work {
+    background-color: hsl(15, 100%, 70%);
+}
+
+#play {
+    background-color: hsl(195, 74%, 62%);
+}
+
+#study {
+    background-color: hsl(348, 100%, 68%);
+}
+
+#exercise {
+    background-color: hsl(145, 58%, 55%);
+}
+
+#social {
+    background-color: hsl(264, 64%, 52%);
+}
+
+#self-care {
+    background-color: hsl(43, 84%, 65%);
+}
